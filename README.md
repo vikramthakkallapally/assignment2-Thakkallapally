@@ -28,3 +28,9 @@ Below table lists out the food and drink items that I preferably recommend to an
 | Frenchfries | McDonalds | $5 |
 | Cold Coffee | StarBucks | $3 |
 | Chicken Nuggets | KFC | $4 |
+---
+# Pithy Quotes that inspired me 
+`Never write anything that does not give you great pleasure. Emotion is easily transferred from the      writer to the reader.    -*Joseph Joubert*`
+
+`It is perfectly okay to write garbage as long as you edit brilliantly.   -*C. J. Cherryh*`
+
