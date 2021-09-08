@@ -17,3 +17,5 @@ A little over **8 million people** live in **New York City**. That means 1 in ev
 * DSLR Camera
 * Jacket
 * Licence
+
+[Direct link to know About Me](./AboutMe.md)
