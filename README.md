@@ -29,8 +29,31 @@ Below table lists out the food and drink items that I preferably recommend to an
 | Cold Coffee | StarBucks | $3 |
 | Chicken Nuggets | KFC | $4 |
 ---
-# Pithy Quotes that inspired me 
+## Pithy Quotes that inspired me 
 > Never write anything that does not give you great pleasure. Emotion is easily transferred from the     writer to the reader.   - *Joseph Joubert*
 
 > It is perfectly okay to write garbage as long as you edit brilliantly.   - *C. J. Cherryh*
+
+----
+## Precise information about Data Structures
+> A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+> For example, we can store a list of items having the same data-type using the array data structure.
+[Quick-link for the source](https://www.geeksforgeeks.org/data-structures/)
+## Sample code for deleting an element from the stack
+```
+stack<pair<int, int>> s1, s2;
+
+if (s2.empty()) {
+    while (!s1.empty()) {
+        int element = s1.top().first;
+        s1.pop();
+        int minimum = s2.empty() ? element : min(element, s2.top().second);
+        s2.push({element, minimum});
+    }
+}
+int remove_element = s2.top().first;
+s2.pop();
+
+```
+[Quick-link for the code source](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 
