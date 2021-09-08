@@ -19,3 +19,12 @@ A little over **8 million people** live in **New York City**. That means 1 in ev
 * Licence
 
 [Direct link to know About Me](./AboutMe.md)
+---
+## Food,Drinks I would recommend someone to try
+Below table lists out the food and drink items that I preferably recommend to anyone.Among all these items I loved Chicken Nuggets the most.
+| Items | Available at | Price |
+|------|----------|------|
+| Pepperoni Pizza | Dominos | $15 |
+| Frenchfries | McDonalds | $5 |
+| Cold Coffee | StarBucks | $3 |
+| Chicken Nuggets | KFC | $4 |
