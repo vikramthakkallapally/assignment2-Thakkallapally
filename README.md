@@ -11,4 +11,9 @@ A little over **8 million people** live in **New York City**. That means 1 in ev
     2. I Finally collected my boarding pass for newyork after a 1hr flight time to Atlanta airport 
 3. I reached New York from my starting point Maryville within a time span of 3hours.
 
+## List of items that should be brought to New York for maximum enjoyment
 
+* Rain Coat
+* DSLR Camera
+* Jacket
+* Licence
